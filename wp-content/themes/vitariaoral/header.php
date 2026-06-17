@@ -54,7 +54,7 @@
         <nav class="cal-nav-desktop" aria-label="Main menu">
                     <a href="<?php echo esc_url( home_url( '/' ) ); ?>">Home</a>
           <a href="<?php echo esc_url( home_url( '/shop/' ) ); ?>">Shop</a>
-          <a href="<?php echo esc_url( home_url( '/product/vitariaoral-3-in-1-oral-care-kit/' ) ); ?>">Oral Care Kit</a>
+          <a href="<?php echo esc_url( home_url( '/product/oral-care-kit/' ) ); ?>">Oral Care Kit</a>
         </nav>
       </div>
 
@@ -81,7 +81,7 @@
       <nav class="cal-nav-mobile" aria-label="Mobile menu">
                 <a href="<?php echo esc_url( home_url( '/' ) ); ?>">Home</a>
         <a href="<?php echo esc_url( home_url( '/shop/' ) ); ?>">Shop</a>
-        <a href="<?php echo esc_url( home_url( '/product/vitariaoral-3-in-1-oral-care-kit/' ) ); ?>">Oral Care Kit</a>
+        <a href="<?php echo esc_url( home_url( '/product/oral-care-kit/' ) ); ?>">Oral Care Kit</a>
         <a href="<?php echo esc_url( site_url( '/my-account/' ) ); ?>">My account</a>
       </nav>
     </div>

@@ -51,7 +51,7 @@
         <div class="cal-footer-col">
           <h4>Shop</h4>
           <ul>
-            <li><a href="<?php echo esc_url( home_url( '/product/vitariaoral-3-in-1-oral-care-kit/' ) ); ?>">Vitaria Oral 3-in-1 Kit</a></li>
+            <li><a href="<?php echo esc_url( home_url( '/product/oral-care-kit/' ) ); ?>">Vitaria Oral 3-in-1 Kit</a></li>
             <li><a href="<?php echo esc_url( home_url( '/shop/' ) ); ?>">Shop</a></li>
             <li><a href="#">Deals</a></li>
             <li><a href="#">Gift cards</a></li>

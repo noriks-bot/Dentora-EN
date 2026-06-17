@@ -9,7 +9,7 @@
 
 get_header();
 
-$product_url = home_url( '/product/vitariaoral-3-in-1-oral-care-kit/' );
+$product_url = home_url( '/product/oral-care-kit/' );
 $shop_url    = home_url( '/shop/' );
 $img         = '/static/site/cdn/shop/files/';
 $hero_img    = $img . 'Gemini_Generated_Image_e06i0ge06i0ge06i.png';
