@@ -30,8 +30,8 @@
       <div class="cal-container cal-footer-grid">
 
         <div class="cal-footer-col cal-footer-brand">
-          <div class="cal-footer-logo">DENTORA</div>
-          <p class="cal-footer-tag">Ergonomic pillows for better sleep.<br>30 nights risk-free.</p>
+          <div class="cal-footer-logo">VITARIA ORAL</div>
+          <p class="cal-footer-tag">Brighter smiles for the whole family.<br>30 days risk-free.</p>
           <div class="cal-footer-socials">
             <a href="#" aria-label="Instagram">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="18" cy="6" r="1" fill="currentColor"/></svg>
@@ -51,8 +51,8 @@
         <div class="cal-footer-col">
           <h4>Shop</h4>
           <ul>
-            <li><a href="#bundles">Dentora oral care</a></li>
-            <li><a href="#bundles">Bundles</a></li>
+            <li><a href="<?php echo esc_url( home_url( '/product/vitariaoral-3-in-1-oral-care-kit/' ) ); ?>">Vitaria Oral 3-in-1 Kit</a></li>
+            <li><a href="<?php echo esc_url( home_url( '/shop/' ) ); ?>">Shop</a></li>
             <li><a href="#">Deals</a></li>
             <li><a href="#">Gift cards</a></li>
           </ul>
@@ -77,7 +77,7 @@
             <li><a href="#">Press</a></li>
           </ul>
           <div class="cal-footer-contact">
-            <p><strong>Support:</strong><br><a href="mailto:info@dentora.si">info@dentora.si</a></p>
+            <p><strong>Support:</strong><br><a href="mailto:info@vitariaoral.com">info@vitariaoral.com</a></p>
           </div>
         </div>
 
@@ -88,7 +88,7 @@
     <div class="cal-footer-bottom">
       <div class="cal-container cal-footer-bottom-inner">
         <div class="cal-footer-copy">
-          © <?php echo date('Y'); ?> Dentora. All rights reserved.
+          © <?php echo date('Y'); ?> Vitaria Oral. All rights reserved.
         </div>
         <div class="cal-footer-legal">
           <a href="#">Terms of Use</a>
